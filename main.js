@@ -62,3 +62,7 @@ function calculate() {
         console.log("ainda não é possível calcular")
     }
 }
+
+function reset() {
+    
+}
